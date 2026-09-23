@@ -124,9 +124,9 @@ Currently building multi-agent systems and real-world GenAI applications — fro
 
 <br><br>
 
-<!-- ================== TROPHIES ================== -->
+<!-- ================== ACHIEVEMENTS (REPLACED TROPHIES) ================== -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haseebshah1403&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haseebshah1403&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" width="55%"/>
 </p>
 
 <br><br>
