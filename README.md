@@ -31,7 +31,7 @@
 AI/ML Engineer specializing in <b>Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Generative AI, RAG & LLMs.</b><br><br>
 Currently building multi-agent systems and real-world GenAI applications — from adaptive interview simulation to agentic meeting intelligence.<br><br>
 🎓 BS Computer Science, The Superior University, Lahore (2023–2027)<br>
-
+💼 AI/ML Trainee @ PureLogics · Incoming AI/ML Engineer @ DeepVision.AI
 </p>
 
 </td></tr>
@@ -39,7 +39,7 @@ Currently building multi-agent systems and real-world GenAI applications — fro
 
 <br><br>
 
-<!-- ================== CURRENTLY BUILDING (BOXED) ================== -->
+<!-- ================== CURRENTLY BUILDING (BOXED + SLIDING) ================== -->
 <table align="center" width="90%">
 <tr><td>
 
@@ -47,18 +47,10 @@ Currently building multi-agent systems and real-world GenAI applications — fro
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=FFB800&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%F0%9F%94%A5+Currently+Building" alt="Currently Building Heading" />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>🎤 InterviewAI</h4>
-      <p>Multi-agent system for adaptive quiz-based candidate screening and AI avatar-driven interview simulation, with automated evaluation and manager-level review.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🧠 Agentic Meeting Intelligence</h4>
-      <p>Whisper transcription → LLM structured extraction → RAG over past meetings/docs → multi-agent layer with MCP-style tools → React Q&A dashboard.</p>
-    </td>
-  </tr>
-</table>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <b>🎤 InterviewAI</b> — Multi-agent adaptive quiz screening + AI avatar interview simulation &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🧠 Agentic Meeting Intelligence</b> — Whisper → RAG → Multi-agent tools → React Q&A dashboard
+</marquee>
 
 </td></tr>
 </table>
