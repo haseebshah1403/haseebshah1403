@@ -39,18 +39,26 @@ Currently building multi-agent systems and real-world GenAI applications — fro
 
 <br><br>
 
-<!-- ================== CURRENTLY BUILDING (BOXED + SLIDING) ================== -->
+<!-- ================== CURRENTLY BUILDING (BOXED + SPLIT CARDS) ================== -->
 <table align="center" width="90%">
 <tr><td>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=FFB800&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%F0%9F%94%A5+Currently+Building" alt="Currently Building Heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=FFB800&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%F0%9F%94%A5+Currently+Building" alt="Currently Building Heading" />
 </p>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <b>🎤 InterviewAI</b> — Multi-agent adaptive quiz screening + AI avatar interview simulation &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🧠 Agentic Meeting Intelligence</b> — Whisper → RAG → Multi-agent tools → React Q&A dashboard
-</marquee>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>🎤 InterviewAI</h4>
+      <p>Multi-agent adaptive quiz screening + AI avatar interview simulation</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🧠 Agentic Meeting Intelligence</h4>
+      <p>Whisper → RAG → Multi-agent tools → React Q&A dashboard</p>
+    </td>
+  </tr>
+</table>
 
 </td></tr>
 </table>
@@ -124,7 +132,7 @@ Currently building multi-agent systems and real-world GenAI applications — fro
 
 <br><br>
 
-<!-- ================== ACHIEVEMENTS (REPLACED TROPHIES) ================== -->
+<!-- ================== ACHIEVEMENTS ================== -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haseebshah1403&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true" width="55%"/>
 </p>
