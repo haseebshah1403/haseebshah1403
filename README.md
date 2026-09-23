@@ -21,37 +21,54 @@
 
 <br><br>
 
-<!-- ================== ABOUT ================== -->
+<!-- ================== ABOUT ME (BOXED) ================== -->
+<table align="center" width="90%">
+<tr><td>
+
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  AI/ML Engineer specializing in <b>Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Generative AI, RAG & LLMs.</b><br>
-  Currently building multi-agent systems and real-world GenAI applications — from adaptive interview simulation to agentic meeting intelligence.
+AI/ML Engineer specializing in <b>Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Generative AI, RAG & LLMs.</b><br><br>
+Currently building multi-agent systems and real-world GenAI applications — from adaptive interview simulation to agentic meeting intelligence.<br><br>
+🎓 BS Computer Science, The Superior University, Lahore (2023–2027)<br>
+💼 AI/ML Trainee @ PureLogics · Incoming AI/ML Engineer @ DeepVision.AI
 </p>
+
+</td></tr>
+</table>
 
 <br><br>
 
-<!-- ================== CURRENTLY WORKING ON ================== -->
+<!-- ================== CURRENTLY BUILDING (BOXED) ================== -->
+<table align="center" width="90%">
+<tr><td>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=FFB800&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%F0%9F%94%A5+Currently+Building" alt="Currently Building Heading" />
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🎤 InterviewAI</h4>
       <p>Multi-agent system for adaptive quiz-based candidate screening and AI avatar-driven interview simulation, with automated evaluation and manager-level review.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🧠 Agentic Meeting Intelligence</h4>
       <p>Whisper transcription → LLM structured extraction → RAG over past meetings/docs → multi-agent layer with MCP-style tools → React Q&A dashboard.</p>
     </td>
   </tr>
 </table>
 
+</td></tr>
+</table>
+
 <br><br>
 
-<!-- ================== SOCIAL LINKS ================== -->
+<!-- ================== LET'S CONNECT (BOXED) ================== -->
+<table align="center" width="90%">
+<tr><td>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%F0%9F%94%97+Let's+Connect!" alt="Connect Heading" />
 </p>
@@ -62,14 +79,18 @@
   <a href="https://www.linkedin.com/in/syed-muhammad-haseeb-shah/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+</td></tr>
+</table>
+
 <br><br>
 
-<!-- ================== TECH STACK ================== -->
+<!-- ================== TECH STACK (BOXED) ================== -->
+<table align="center" width="90%">
+<tr><td>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1000&color=00FFB2&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+My+Tech+Arsenal" alt="Tech Stack Heading" />
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -85,6 +106,9 @@
   <img src="https://img.shields.io/badge/FAISS%2FChroma-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
+
+</td></tr>
+</table>
 
 <br><br>
 
