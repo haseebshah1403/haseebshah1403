@@ -31,7 +31,7 @@
 AI/ML Engineer specializing in <b>Machine Learning, Deep Learning, Computer Vision, NLP, Agentic AI, Generative AI, RAG & LLMs.</b><br><br>
 Currently building multi-agent systems and real-world GenAI applications — from adaptive interview simulation to agentic meeting intelligence.<br><br>
 🎓 BS Computer Science, The Superior University, Lahore (2023–2027)<br>
-💼 AI/ML Trainee @ PureLogics · Incoming AI/ML Engineer @ DeepVision.AI
+
 </p>
 
 </td></tr>
